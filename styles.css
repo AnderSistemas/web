@@ -1,0 +1,20 @@
+body{
+    padding-top: 20px;
+}
+
+.card{
+    margin-bottom: 20px;
+}
+
+#carrito{
+    margin-top: 20px;
+}
+
+.btn-agregar{
+    background-color: #007bff;
+    border-color: #007bff;
+}
+.btn-agregar:hover{
+    border-color: #0056b3;
+    background-color: #0056b3;
+}
